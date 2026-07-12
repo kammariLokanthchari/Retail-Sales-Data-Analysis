@@ -42,6 +42,29 @@ This project analyzes a retail sales dataset using Python, Pandas, NumPy, and Ma
 - Expand business efforts in California and New York.
 - Analyze profitability challenges in Texas.
 
+## Dataset
+The project uses the Sample Superstore dataset containing 9,994 retail transactions.
+Features include:
+- Order Date
+- Category
+- Sub-Category
+- Sales
+- Profit
+- Quantity
+- Discount
+- State
+- Region
+## Visualizations
+
+### Sales by Category
+![Sales by Category](sales_by_category.png)
+
+### Profit by Category
+![Profit by Category](profit_by_category.png)
+
+### Top States by Sales
+![Top States by Sales](top_states_sales.png)
+
 ## Conclusion
 The analysis identified key revenue drivers, profitable product categories, and high-performing regions that can support data-driven business decision-making.
 
